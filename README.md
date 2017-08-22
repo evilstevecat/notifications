@@ -1,3 +1,3 @@
 # notifications
 
-:cat:
+:dog:
